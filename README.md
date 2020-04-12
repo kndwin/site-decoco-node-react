@@ -1,0 +1,2 @@
+#decoco
+a simple website
